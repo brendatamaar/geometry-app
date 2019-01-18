@@ -15,7 +15,7 @@ public class GeometryCalculator {
     public void main(){
         int menu;
         System.out.println("-------APLIKASI KALKULATOR GEOMETRI-------\n");
-        System.out.println("Selamat datang, silahkan pilih salah satu menu:\n");
+        System.out.println("Selamat datang, silahkan pilih salah satu menu di bawah ini:\n");
         System.out.println("1. Hitung Luas Persegi\n");
         System.out.println("2. Hitung Keliling Persegi\n");
         System.out.println("3. Hitung Luas Persegi Panjang\n");
